@@ -1,0 +1,27 @@
+#page-4{
+	background: #fff;
+}
+
+#page-4 .banner{
+	width: 90%;
+	height: 75%;
+	padding: 20px;
+	margin-top: 40px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#page-4 .banner .process-banner{
+	width: 680px;
+	/*height: 90px;*/
+	/*height: 900px;*/
+	vertical-align: middle;
+}
+
+@media(min-height:768px){
+	#page-4 .banner .process-banner{
+		width: 1000px;
+	}
+}
+
+
